@@ -17,7 +17,8 @@ Note: Updates won't immediately appear once we've merged your PR. We pull in the
 
 If a topic or collection already exists, it will be listed in its respective directory:
 
-- [topics/](https://github.com/github/explore/tree/master/topics)
+- http://bj07p15aff2020.com/af/T21pE7b2/ali
+[topics/](https://github.com/github/explore/tree/master/topics)
 - [collections/](https://github.com/github/explore/tree/master/collections)
 
 The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the [`topics/rails` directory](https://github.com/github/explore/tree/master/topics/rails).
